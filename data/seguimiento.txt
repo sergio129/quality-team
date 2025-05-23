@@ -641,7 +641,11 @@
     "fechaEntrega": "2025-05-23T00:00:00.000Z",
     "fechaCertificacion": "2025-05-23T00:00:00.000Z",
     "analistaProducto": "Sergio Anaya",
-    "planTrabajo": "En desarrollo"
+    "planTrabajo": "En desarrollo",
+    "estado": "En Progreso",
+    "estadoCalculado": "En Progreso",
+    "fechaRealEntrega": "2025-05-23T00:00:00.000Z",
+    "diasRetraso": 0
   },
   {
     "idJira": "SBSF-1824",
@@ -709,5 +713,18 @@
     "analistaProducto": "Yoarlis Carrillo\t",
     "planTrabajo": "en desarrollo",
     "proyecto": "Arquetipos Ventas digitales"
+  },
+  {
+    "idJira": "PRUEBA-123",
+    "proyecto": "prueba",
+    "equipo": "CRM Bancolombia",
+    "celula": "KCRM",
+    "horas": 5,
+    "dias": 1,
+    "fechaEntrega": "2025-05-31T00:00:00.000Z",
+    "fechaCertificacion": "2025-06-01T00:00:00.000Z",
+    "estadoCalculado": "Por Iniciar",
+    "analistaProducto": "Sergio Anaya",
+    "planTrabajo": "pruebas"
   }
 ]
